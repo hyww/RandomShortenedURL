@@ -19,7 +19,7 @@ echo '
 ';
 
 
-$characters = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789@~';
+$characters = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789~-';
 
 $string = '';
 $random_string_length = 4;
